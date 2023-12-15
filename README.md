@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @10Felz
-- 👀 I’m interested in 
 - 🌱 I’m currently learning python
-- 📫 How to reach me ...
+- Currently making a langugage learning game
+- 📫 How to reach me Discord- felzwastaken
 
 <!---
 10Felz/10Felz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
